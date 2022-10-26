@@ -5,7 +5,7 @@ global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
 ['6285714056133', 'ᴢʏɴɴ - xᴅ', true], 
-['6288279268363', 'King Of Bear', false] 
+['6288279268363', 'King Of Bear', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -37,7 +37,7 @@ global.APIKeys = { // APIKey Here
 
 global.linkyt = 'https://youtube.com/channel/UCi3iQ7GEre7egnRKZEzkZOQ'
 global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 ᴢʏɴɴ - xᴅ'
-global.linkgc = 'gadaa'
+global.linkgc = 'https://chat.whatsapp.com/ETlvAemLM8rEkhyqMRyEP3'
 global.linkig = 'https://www.instagram.com/zynnpetot'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/1665521d176fbf172d735.jpg'
